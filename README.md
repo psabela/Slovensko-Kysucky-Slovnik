@@ -1,6 +1,8 @@
 # Slovensko-Kysucký-Slovník
 <span style="color: red;">Príspevky sú vítané.</span>
-(psabela [at] hotmail [dot] com)
+
+
+*psabela [at] hotmail [dot] com*
 
 
 Slovenský                           | Kysucký 
