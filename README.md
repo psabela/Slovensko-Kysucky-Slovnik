@@ -1,5 +1,5 @@
 # Slovensko-Kysucký-Slovník
-<span style="color: red;">Príspevky sú vítané.</span>
+<span style="color: red;">Príspevky sú vítané. (psabela [at] hotmail [dot] com)</span>
 
 
 Slovenský                           | Kysucký 
