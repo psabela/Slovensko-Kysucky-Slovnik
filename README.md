@@ -16,24 +16,29 @@ chlap                               | chlop
 chudák                              | borok
 dedina                              | džedžina
 dieťa                               | džečisko
+dievča                              | dzevka
 domov                               | dudomu    
 fúrik                               | točky
 farár                               | panko
 hrubšie                             | hrubše
-kde                                 | dže
+ideš                                | idžeš
+kde, kam                            | dže
 kúriť                               | okuriť
+lajdak                              | ľump, lajdok
 lieta                               | ľece
 mačiatko/a                          | kočacko/a
 máte                                | moče
 nahnevaný                           | spajedený
 oddýchnutý                          | vypočnutý
 oblečenie (staré)                   | bučory
+oťec                                | ocec
 piť, vypiť                          | chľastať , vychľastaj 
 počuješ                             | čuješ
 porodiť                             | okočič
 pozeraš                             | čumiš 
 prasatá                             | prašacka
 prišiel                             | prišol
+rodina                              | rodzina
 rozmnožiť                           | rozmožič
 sa                                  | še
 sadnúť                              | šadnuč
