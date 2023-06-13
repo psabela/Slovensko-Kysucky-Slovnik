@@ -34,10 +34,12 @@ oblečenie (staré)                   | bučory
 oťec                                | ocec
 piť, vypiť                          | chľastať , vychľastaj 
 počuješ                             | čuješ
+polesnik                            | polesňak
 porodiť                             | okočič
 pozeraš                             | čumiš 
 prasatá                             | prašacka
 prišiel                             | prišol
+radi                                | radzi
 rodina                              | rodzina
 rozmnožiť                           | rozmožič
 sa                                  | še
